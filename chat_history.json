@@ -1,0 +1,112 @@
+[
+  {
+    "user": "",
+    "bot": "Welcome to Our Salon!\n\nWe offer Haircuts, Massages, and Manicures/Pedicures.\n\nWould you like to learn more about our services or book an appointment?",
+    "timestamp": "2025-03-01 13:01:56"
+  },
+  {
+    "user": "tell me more about the service",
+    "bot": "I'm sorry, I am an AI receptionist and do not have access to the information.",
+    "timestamp": "2025-03-01 13:02:18"
+  },
+  {
+    "user": "",
+    "bot": "Welcome to our AI-powered booking system! We offer Haircuts, Massages, and Manicures/Pedicures.\n\nWould you like to learn more about our services or book an appointment?",
+    "timestamp": "2025-03-01 13:16:47"
+  },
+  {
+    "user": "tell me more about the services",
+    "bot": "I'm sorry, I am an AI receptionist and do not have access to the information.",
+    "timestamp": "2025-03-01 13:17:03"
+  },
+  {
+    "user": "what can you tell me",
+    "bot": "Welcome to our AI-powered booking system! We offer:\n\n*   Haircuts\n*   Massages\n*   Manicures and Pedicures\n\nOur business hours are from 9:00 AM to 5:00 PM, Monday to Saturday. Would you like to learn more about our services or book an appointment?",
+    "timestamp": "2025-03-01 13:17:16"
+  },
+  {
+    "user": "",
+    "bot": "Welcome to Our Salon!\n\nWe offer haircuts ($30) and massages.\n\nWould you like to learn more about our services or book an appointment?\n",
+    "timestamp": "2025-03-02 07:41:38"
+  },
+  {
+    "user": "tell me about the services",
+    "bot": "We offer haircuts and massages. Would you like to learn more about a specific service, or book an appointment?",
+    "timestamp": "2025-03-02 07:41:54"
+  },
+  {
+    "user": "tell me about haircuts",
+    "bot": "We offer haircuts for $30. Would you like to book an appointment?",
+    "timestamp": "2025-03-02 07:42:08"
+  },
+  {
+    "user": "i like to book appointment",
+    "bot": "I couldn't find an exact match for 'ppointment'. Here are our available services:\n\n- Haircut\n- Manicure\n- Massage\n\nWhich service would you like to book?",
+    "timestamp": "2025-03-02 07:42:22"
+  },
+  {
+    "user": "haircut",
+    "bot": "Could you please provide your full name?",
+    "timestamp": "2025-03-02 07:42:35"
+  },
+  {
+    "user": "hasan",
+    "bot": "What date would you prefer for your appointment? (YYYY-MM-DD)",
+    "timestamp": "2025-03-02 07:42:37"
+  },
+  {
+    "user": "tommorw",
+    "bot": "Sorry, that time slot is not available. Available times on None are: 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00. Please select one.",
+    "timestamp": "2025-03-02 07:42:45"
+  },
+  {
+    "user": "hello",
+    "bot": "Hello! Welcome to Beauty & Care Salon! How may I assist you today?",
+    "timestamp": "2025-03-02 08:13:06"
+  },
+  {
+    "user": "tell me about the services",
+    "bot": "I'm sorry, I am an AI receptionist and do not have access to the information.",
+    "timestamp": "2025-03-02 08:13:18"
+  },
+  {
+    "user": "what can you tell me",
+    "bot": "I'm sorry, I am an AI receptionist and do not have access to the information.",
+    "timestamp": "2025-03-02 08:13:36"
+  },
+  {
+    "user": "i like to make a booking",
+    "bot": "I'm sorry, I am an AI receptionist and do not have access to the information.",
+    "timestamp": "2025-03-02 08:13:49"
+  },
+  {
+    "user": "tell me more about the services\\",
+    "bot": "I'm sorry, I am an AI receptionist and do not have access to the information.",
+    "timestamp": "2025-03-02 08:17:41"
+  },
+  {
+    "user": "i like to make a booking",
+    "bot": "I'm sorry, I am an AI receptionist and do not have access to the information.",
+    "timestamp": "2025-03-02 08:17:49"
+  },
+  {
+    "user": "hello",
+    "bot": "Hello! Welcome to Beauty & Care Salon! How may I assist you today?",
+    "timestamp": "2025-03-02 08:19:10"
+  },
+  {
+    "user": "tell me more about the services",
+    "bot": "I'm sorry, I am an AI receptionist and do not have access to the information.",
+    "timestamp": "2025-03-02 08:19:23"
+  },
+  {
+    "user": "what can you tell me",
+    "bot": "I'm sorry, I am an AI receptionist and do not have access to the information.",
+    "timestamp": "2025-03-02 08:19:42"
+  },
+  {
+    "user": "tell me more about the services",
+    "bot": "I'm sorry, I am an AI receptionist and do not have access to the information.",
+    "timestamp": "2025-03-02 08:22:35"
+  }
+]
